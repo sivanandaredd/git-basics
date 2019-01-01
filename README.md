@@ -2,4 +2,5 @@
 samplegitoperations
 adding second line
 adding third line
-adding last line 
+adding last line
+my last message
